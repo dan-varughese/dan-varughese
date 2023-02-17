@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @dan-varughese
-- 👀 I’m interested in ... cybersec x blockchain
-- 🌱 I’m currently learning ... high school stuff
+- 👀 I’m interested in ... bitcoin development
+- 🌱 I’m currently learning ... telecommunications and networks + script
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... @danvarughese on telegram
+- 📫 How to reach me ... dan@danvarughese.com
 
 <!---
 
