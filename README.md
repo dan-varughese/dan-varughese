@@ -1,24 +1,21 @@
-# Hello, I'm Daniel Varughese
+# Hi! I'm Daniel Varughese 👋🏽
 <a href="https://www.linkedin.com/in/danvarughese"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I'm a student at WGU studying Network Engineering and Security with a concentration in Cisco technologies looking to enter the Governance subset of the Cybersecurity field with a strong technical background.
+I'm a student at WGU studying Network Engineering and Security with a concentration in Cisco technologies. I am looking to enter the governance subset of the Cybersecurity field with a strong technical background.
 
 ## Objective
 
-Throughout my life I've worked with computers, and I'm eager to apply my experience + skillset to the field of Cybersecurity/IT Governance, specifically aiming to become a GRC Analyst.
+I've worked with and built computers since I was five years old. I'm eager to apply my experience + skillset to Cybersecurity/IT Governance, aiming to become a GRC Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Cyber Essentials Framework                     | <a href="https://github.com/dan-varughese/cyberessentials">Cyber Essentials Report|</a>
-| CMMI Ranking Scale                             | <a href="https://github.com/dan-varughese/cyberessentials">Cyber Essentials Report|</a>|
-| Spider Diagrams                                | <a href="https://github.com/dan-varughese/cyberessentials">Cyber Essentials Report|</a>|
-| NIST 800-171, NIST RMF                         | Solutions3 Client Interview |
+| Cyber Essentials Framework                     | <a href="https://github.com/dan-varughese/cyberessentials">Cyber Essentials Audit|</a>|
+| CMMI/CMMC Ranking Scale                        | <a href="https://github.com/dan-varughese/cyberessentials">Cyber Essentials Audit|</a>|
+| Spider Diagrams                                | <a href="https://github.com/dan-varughese/cyberessentials">Cyber Essentials Audit|</a>|
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+<!-- ## Tools
 
 ### Network
 <div>
@@ -40,16 +37,18 @@ Throughout my life I've worked with computers, and I'm eager to apply my experie
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
+!-->
+
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<a href="https://www.credly.com/badges/85f27c12-02fe-4905-916b-dd31da9bc26a/public_url"> <img src="https://img.shields.io/badge/-ISC2%20Certified%20in%20Cybersecurity-00552E?style=for-the-badge"/> </a>
+<a href="https://www.credly.com/badges/1056aaf3-9465-4ec1-b4fe-74a4c460e9e5/public_url"> <img src="https://img.shields.io/badge/-NIST--Cybersecurity%20Professional%20Foundation-003B64?style=for-the-badge"/> </a>
+<a href="https://1drv.ms/b/s!Ai0a7l_LbSj8qr5wQEcC0E9L2EqSkw?e=h7ItiE"> <img src="https://img.shields.io/badge/-ITIL%204%20Foundation-6C2383?style=for-the-badge" /> </a>
+<a href="https://www.credly.com/badges/b34f83a9-25f6-4f24-9caf-5e953326416c/public_url"> <img src="https://img.shields.io/badge/-CompTIA%20A%2B-D22630?style=for-the-badge&logo=CompTIA&logoColor=white" /> </a>
+<a href="https://cs.lpi.org/caf/Xamman/certification/verify/LPI000617634/eq859gjudk"> <img src="https://img.shields.io/badge/-LPI%20Linux%20Essentials-FFA500?style=for-the-badge&logo=linux&logoColor=black" /> </a>
 </div>
 
 ## Projects
-- Cyber Essentials Report
+- Cyber Essentials Audit
 - Solutions3 Client Interview
+- more coming soon! (networking, siem, etc) 🙂
