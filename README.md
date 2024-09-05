@@ -50,5 +50,4 @@ I've worked with and built computers since I was five years old. I'm eager to ap
 
 ## Projects
 - Cyber Essentials Audit
-- Solutions3 Client Interview
 - more coming soon! (networking, siem, etc) 🙂
