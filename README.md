@@ -3,10 +3,6 @@
 
 I'm a student at WGU studying Network Engineering and Security with a concentration in Cisco technologies. I am looking to enter the governance subset of the Cybersecurity field with a strong technical background.
 
-## Objective
-
-I've worked with and built computers since I was five years old. I'm eager to apply my experience + skillset to Cybersecurity/IT Governance, aiming to start as a GRC Analyst.
-
 ## Skills
 
 | Skill                                         | Associated Project         |
