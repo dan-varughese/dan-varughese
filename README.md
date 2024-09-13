@@ -1,7 +1,5 @@
 # Hi! I'm Daniel Varughese 👋🏽
-<!--<a href="https://www.linkedin.com/in/danvarughese"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>!-->
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="danvarughese" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/danvarughese?trk=profile-badge">Daniel Varughese</a></div>
+<a href="https://www.linkedin.com/in/danvarughese"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I'm a student at WGU studying Network Engineering and Security with a concentration in Cisco technologies. I am looking to enter the governance subset of the Cybersecurity field with a strong technical background.
 
