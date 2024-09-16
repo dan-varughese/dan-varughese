@@ -10,6 +10,9 @@ I'm a student at WGU studying Network Engineering and Security with a concentrat
 | Cyber Essentials Framework                     | <a href="https://github.com/dan-varughese/cyberessentials">Cyber Essentials Audit|</a>|
 | CMMI/CMMC Ranking Scale                        | <a href="https://github.com/dan-varughese/cyberessentials">Cyber Essentials Audit|</a>|
 | Spider Diagrams                                | <a href="https://github.com/dan-varughese/cyberessentials">Cyber Essentials Audit|</a>|
+| SIEM Configuration and Management              | <a href="https://github.com/dan-varughese/elasticSIEM">SIEM using Elastic Cloud|</a>|
+| Security Event Simulation and Analysis         | <a href="https://github.com/dan-varughese/elasticSIEM">SIEM using Elastic Cloud|</a>|
+| SIEM Visualization and Alerting                | <a href="https://github.com/dan-varughese/elasticSIEM">SIEM using Elastic Cloud|</a>|
 
 <!-- ## Tools
 
@@ -46,4 +49,5 @@ I'm a student at WGU studying Network Engineering and Security with a concentrat
 
 ## Projects
 - Cyber Essentials Audit
-- more coming soon! (networking, siem, etc) 🙂
+- SIEM using Elastic Cloud
+- more coming soon!
