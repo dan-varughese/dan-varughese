@@ -49,4 +49,4 @@ I'm a student at WGU studying Network Engineering and Security with a concentrat
 ## Projects
 - Cyber Essentials Audit
 - SIEM using Elastic Cloud
-- more coming soon!
+- Simple Network Scanner
