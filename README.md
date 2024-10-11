@@ -16,13 +16,18 @@ I'm a student at WGU studying Network Engineering and Security with a concentrat
 
 ## Tools
 
-<!-- ### Network
+### Network
 <div>
+    <img src="https://img.shields.io/badge/nmap-v7.93-blue"/>
+    <img src="https://img.shields.io/badge/python-v3.11.5-blue"/>
+    <!--
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    !-->
 </div>
 
+<!--
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
