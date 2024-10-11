@@ -18,8 +18,8 @@ I'm a student at WGU studying Network Engineering and Security with a concentrat
 
 ### Network
 <div>
-    <img src="https://img.shields.io/badge/nmap-v7.93-blue"/>
-    <img src="https://img.shields.io/badge/python-v3.11.5-blue"/>
+    <img src="https://img.shields.io/badge/nmap-Latest-blue?style=for-the-badge&logo=nmap&logoColor=white"/>
+    <img src="https://img.shields.io/badge/python-v3.11.5-yellow?style=for-the-badge&logo=python&logoColor=white"/>
     <!--
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
