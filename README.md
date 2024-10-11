@@ -49,6 +49,7 @@ I'm a student at WGU studying Network Engineering and Security with a concentrat
 <a href="https://1drv.ms/b/s!Ai0a7l_LbSj8qr5wQEcC0E9L2EqSkw?e=h7ItiE"> <img src="https://img.shields.io/badge/-ITIL%204%20Foundation-6C2383?style=for-the-badge" /> </a>
 <a href="https://www.credly.com/badges/b34f83a9-25f6-4f24-9caf-5e953326416c/public_url"> <img src="https://img.shields.io/badge/-CompTIA%20A%2B-D22630?style=for-the-badge&logo=CompTIA&logoColor=white" /> </a>
 <a href="https://cs.lpi.org/caf/Xamman/certification/verify/LPI000617634/eq859gjudk"> <img src="https://img.shields.io/badge/-LPI%20Linux%20Essentials-FFA500?style=for-the-badge&logo=linux&logoColor=black" /> </a>
+<a href="https://www.credly.com/badges/99b3cecc-084c-403a-a3be-7d1f42dc265f/public_url"> <img src="https://img.shields.io/badge/CompTIA-Cloud%2B-red?style=for-the-badge&logo=comptia&logoColor=white"/> </a>
 </div>
 
 ## Projects
