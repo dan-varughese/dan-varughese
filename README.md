@@ -16,7 +16,7 @@ I'm a student at WGU studying Network Engineering and Security with a concentrat
 
 ## Tools
 
-### Network
+### Networking
 <div>
     <img src="https://img.shields.io/badge/nmap-Latest-blue?style=for-the-badge&logo=nmap&logoColor=white"/>
     <img src="https://img.shields.io/badge/python-v3.12-yellow?style=for-the-badge&logo=python&logoColor=white"/>
