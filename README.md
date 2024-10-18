@@ -1,7 +1,7 @@
 # Hi! I'm Daniel Varughese 👋🏽
 <a href="https://www.linkedin.com/in/danvarughese"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I'm a student at WGU studying Network Engineering and Security with a concentration in Cisco technologies. I am looking to enter the governance subset of the Cybersecurity field with a strong technical background.
+I'm a student at WGU studying Network Engineering and Security with a concentration in Cisco technologies. I am looking to enter the Cybersecurity field with a strong technical background.
 
 ## Skills
 
