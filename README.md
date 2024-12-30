@@ -51,7 +51,7 @@ I'm a student at WGU studying Network Engineering and Security with a concentrat
 </div>
     <a href="https://www.credly.com/badges/1056aaf3-9465-4ec1-b4fe-74a4c460e9e5/public_url"> <img src="https://img.shields.io/badge/-NIST--Cybersecurity%20Professional%20Foundation-003B64?style=for-the-badge"/> </a>
     <a href="https://1drv.ms/b/s!Ai0a7l_LbSj8qr5wQEcC0E9L2EqSkw?e=h7ItiE"> <img src="https://img.shields.io/badge/-ITIL%204%20Foundation-6C2383?style=for-the-badge" /> </a>
-    <a href="https://www.credly.com/badges/d2f78d4a-b38c-4630-9e01-775d26674e01/public_url"> <img src="https://img.shields.io/static/v1?label=CompTIA&message=CLOUD%2B&color=red&style=for-the-badge"/> </a>
+    <a href="https://www.credly.com/badges/d2f78d4a-b38c-4630-9e01-775d26674e01/public_url"> <img src="https://img.shields.io/static/v1?label=CompTIA&message=PROJECT%2B&color=E53A40&style=for-the-badge"/> </a>
 
 <a href="https://cs.lpi.org/caf/Xamman/certification/verify/LPI000617634/eq859gjudk"> <img src="https://img.shields.io/badge/-LPI%20Linux%20Essentials-FFA500?style=for-the-badge&logo=linux&logoColor=black" /> </a>
 
