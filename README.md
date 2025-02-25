@@ -39,6 +39,9 @@ I'm a student at WGU studying Network Engineering and Security with a concentrat
 <div>
     <img src="https://img.shields.io/badge/OS-Kali%20Linux-black?style=for-the-badge&logo=kalilinux" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-00C087?&style=for-the-badge&logo=splunk&logoColor=white" />
+    
+  
 </div>
 
 
