@@ -9,11 +9,11 @@ I'm a student at WGU studying Network Engineering and Security with a concentrat
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Cybersecurity Framework Gap Assessments                   | <a href="https://github.com/dan-varughese/cyberessentials">Cyber Essentials Gap Analysis|</a>|
+| Cybersecurity Gap Assessments                   | <a href="https://github.com/dan-varughese/cyberessentials">Cyber Essentials Gap Analysis|</a>|
 | SIEM Configuration and Management              | <a href="https://github.com/dan-varughese/elasticSIEM">SIEM using Elastic Cloud|</a>|
 | Security Event Simulation and Analysis         | <a href="https://github.com/dan-varughese/elasticSIEM">SIEM using Elastic Cloud|</a>|
 | Intermediate Programming                       | <a href="https://github.com/dan-varughese/simpleNetworkScanner">Simple Network Scanner|</a>|
-
+| Network Design and Implementation              | <a href="https://github.com/dan-varughese/capstone">Capstone|</a>|
 
 ## Tools
 
@@ -51,6 +51,7 @@ I'm a student at WGU studying Network Engineering and Security with a concentrat
 <div>
   <a href="https://www.credly.com/badges/dff14f17-244b-409a-9072-45612d73cbdd/public_url"> <img src="https://img.shields.io/badge/-CCNA-005FCC?style=for-the-badge&logo=Cisco&logoColor=white"/> </a>  
   <a href="https://www.credly.com/badges/6a2f4cf3-c8c7-4a01-aa1f-32916d994150/public_url"> <img src="https://img.shields.io/badge/-DevNet_Associate-005FCC?style=for-the-badge&logo=Cisco&logoColor=white"/> </a>  
+  <a href="https://www.credly.com/badges/17bee68d-0c7a-4a1e-8dc6-68579b4ed8b8/public_url"> <img src="https://img.shields.io/badge/-Cybersecurity_Associate-005FCC?style=for-the-badge&logo=Cisco&logoColor=white"/> </a>  
   <a href="https://www.credly.com/badges/85f27c12-02fe-4905-916b-dd31da9bc26a/public_url"> <img src="https://img.shields.io/badge/-ISC2%20Certified%20in%20Cybersecurity-00552E?style=for-the-badge"/> </a>
     <a href="https://www.credly.com/badges/b34f83a9-25f6-4f24-9caf-5e953326416c/public_url"> <img src="https://img.shields.io/badge/-CompTIA%20A%2B-D22630?style=for-the-badge&logo=CompTIA&logoColor=white" /> </a>
     <a href="https://www.credly.com/badges/99b3cecc-084c-403a-a3be-7d1f42dc265f/public_url"> <img src="https://img.shields.io/badge/-CompTIA%20Cloud%2B-D22630?style=for-the-badge&logo=CompTIA&logoColor=white"/> </a>
