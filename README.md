@@ -13,7 +13,7 @@ I'm a student at WGU studying Network Engineering and Security with a concentrat
 | SIEM Configuration and Management              | <a href="https://github.com/dan-varughese/elasticSIEM">SIEM using Elastic Cloud|</a>|
 | Security Event Simulation and Analysis         | <a href="https://github.com/dan-varughese/elasticSIEM">SIEM using Elastic Cloud|</a>|
 | Intermediate Programming                       | <a href="https://github.com/dan-varughese/simpleNetworkScanner">Simple Network Scanner|</a>|
-| Network Design and Implementation              | <a href="https://github.com/dan-varughese/capstone">Capstone|</a>|
+| Network Design and Implementation              | <a href="https://github.com/dan-varughese/capstone">BSNES Capstone|</a>|
 
 ## Tools
 
@@ -76,3 +76,4 @@ I'm a student at WGU studying Network Engineering and Security with a concentrat
 - Cyber Essentials Gap Analysis
 - SIEM using Elastic Cloud
 - Simple Network Scanner
+- BSNES Capstone
