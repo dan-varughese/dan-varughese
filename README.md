@@ -3,7 +3,7 @@
 
               
 
-I'm a student at WGU studying Network Engineering and Security with a concentration in Cisco technologies. I am looking to enter the Cybersecurity field with a strong technical background.
+I'm a recent graduate of WGU where I studied Network Engineering and Security with a concentration in Cisco technologies. I am looking to enter the Cybersecurity field with a strong technical background.
 
 ## Skills
 
