@@ -65,6 +65,7 @@ I have a bachelor's degree in Network Engineering and Security with a concentrat
   <a href="https://cs.lpi.org/caf/Xamman/certification/verify/LPI000617634/eq859gjudk"> <img src="https://img.shields.io/badge/-LPI%20Linux%20Essentials-FFA500?style=for-the-badge&logo=linux&logoColor=black" /> 
     <a href="https://www.credly.com/badges/85f27c12-02fe-4905-916b-dd31da9bc26a/public_url"> <img src="https://img.shields.io/badge/-ISC2%20Certified%20in%20Cybersecurity-00552E?style=for-the-badge"/> </a>
     <a href="https://www.credly.com/badges/1a777986-a3de-49e0-a3d6-c3cad4add730/public_url"> <img src="https://img.shields.io/badge/-Juniper%20JNCIA-78BE20?style=for-the-badge&logo=junipernetworks&logoColor=white"/> </a>
+    <a href="https://www.credly.com/badges/5ad575f5-3aae-47b6-b66d-7e8ddeba3d71/public_url"> <img src="https://img.shields.io/badge/-Palo%20Alto%20Cybersecurity%20Practitioner-FA582D?style=for-the-badge&logo=paloaltonetworks&logoColor=white"/> </a>
     </div>
 
 
