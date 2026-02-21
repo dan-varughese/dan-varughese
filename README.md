@@ -73,9 +73,3 @@ I have a bachelor's degree in Network Engineering and Security with a concentrat
 </a>
 
 </div>
-
-## Projects
-- Cyber Essentials Gap Analysis
-- SIEM using Elastic Cloud
-- Simple Network Scanner
-- BSNES Capstone
