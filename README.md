@@ -3,7 +3,7 @@
 
               
 
-I have a bachelor's degree in Network Engineering and Security with a concentration in Cisco technologies, and I am currently pursuing a master's degree in Cybersecurity & Privacy @ Georgia Tech with a concentration in cybersecurity policy. I am currently working @ AHEAD on Enterprise Network Delivery with a specialization in Wireless.
+I have a bachelor's degree in Network Engineering and Security with a concentration in Cisco technologies, and I am currently pursuing a master's degree in Cybersecurity & Privacy @ Georgia Tech with a concentration in cybersecurity policy. I am currently working @ AHEAD on Enterprise Network Delivery with a specialization in wireless technologies.
 
 ## Skills
 
