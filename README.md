@@ -7,13 +7,16 @@ I have a bachelor's degree in Network Engineering and Security with a concentrat
 
 ## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Cybersecurity Gap Assessments                   | <a href="https://github.com/dan-varughese/cyberessentials">Cyber Essentials Gap Analysis|</a>|
-| SIEM Configuration and Management              | <a href="https://github.com/dan-varughese/elasticSIEM">SIEM using Elastic Cloud|</a>|
-| Security Event Simulation and Analysis         | <a href="https://github.com/dan-varughese/elasticSIEM">SIEM using Elastic Cloud|</a>|
-| Intermediate Programming                       | <a href="https://github.com/dan-varughese/simpleNetworkScanner">Simple Network Scanner|</a>|
-| Network Design and Implementation              | <a href="https://github.com/dan-varughese/capstone">BSNES Capstone|</a>|
+| Skill | Associated Project |
+|---|---|
+| Full-stack TypeScript application development | [CCNP ENCOR Tracker](https://github.com/dan-varughese/encortracker) |
+| Local desktop workflow automation | [portmappie](https://github.com/dan-varughese/portmappie) |
+| MCP server prototyping and API tooling | [Poke Credential Store MCP](https://github.com/dan-varughese/poke-credential-mcp) |
+| Network scanning and security automation | [Simple Network Scanner](https://github.com/dan-varughese/simpleNetworkScanner) |
+| SIEM configuration, detection, and alerting | [SIEM using Elastic Cloud](https://github.com/dan-varughese/elasticSIEM) |
+| Cybersecurity gap assessment and reporting | [Cyber Essentials Gap Analysis](https://github.com/dan-varughese/cyberessentials) |
+| Network design and implementation | [BSNES Capstone](https://github.com/dan-varughese/capstone) |
+| Browser extension prototyping | [noYoutubeDuringtheDay](https://github.com/dan-varughese/noYoutubeDuringtheDay) |
 
 ## Tools
 
