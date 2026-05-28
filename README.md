@@ -9,7 +9,7 @@ I have a bachelor's degree in Network Engineering and Security with a concentrat
 
 | Skill | Associated Project |
 |---|---|
-| Full-stack TypeScript application development | [CCNP ENCOR Tracker](https://github.com/dan-varughese/encortracker) |
+| AI-Assisted Full-stack TypeScript application development | [CCNP ENCOR Tracker](https://github.com/dan-varughese/encortracker) |
 | Local desktop workflow automation | [portmappie](https://github.com/dan-varughese/portmappie) |
 | MCP server prototyping and API tooling | [Poke Credential Store MCP](https://github.com/dan-varughese/poke-credential-mcp) |
 | Network scanning and security automation | [Simple Network Scanner](https://github.com/dan-varughese/simpleNetworkScanner) |
