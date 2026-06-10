@@ -52,6 +52,7 @@ I have a bachelor's degree in Network Engineering and Security with a concentrat
 
 ## Certifications
 <div>
+    <a href="https://www.credly.com/badges/898bfec4-5096-4f5d-ae93-c63f7fc50645"> <img src="https://img.shields.io/badge/-CCNP-005FCC?style=for-the-badge&logo=Cisco&logoColor=white"/> </a>  
   <a href="https://www.credly.com/badges/dff14f17-244b-409a-9072-45612d73cbdd/public_url"> <img src="https://img.shields.io/badge/-CCNA-005FCC?style=for-the-badge&logo=Cisco&logoColor=white"/> </a>  
   <a href="https://www.credly.com/badges/6a2f4cf3-c8c7-4a01-aa1f-32916d994150/public_url"> <img src="https://img.shields.io/badge/-DevNet_Associate-005FCC?style=for-the-badge&logo=Cisco&logoColor=white"/> </a>  
   <a href="https://www.credly.com/badges/17bee68d-0c7a-4a1e-8dc6-68579b4ed8b8/public_url"> <img src="https://img.shields.io/badge/-Cybersecurity_Associate-005FCC?style=for-the-badge&logo=Cisco&logoColor=white"/> </a>  
