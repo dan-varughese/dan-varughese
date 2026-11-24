@@ -1,23 +1,7 @@
 # Hi! I'm Daniel Varughese 👋🏽
 <a href="https://www.linkedin.com/in/danvarughese"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-              
-
 I have a bachelor's degree in Network Engineering and Security with a concentration in Cisco technologies, and I am currently pursuing a master's degree in Cybersecurity & Privacy @ Georgia Tech with a concentration in cybersecurity policy. I am currently working @ AHEAD on growing plants.
-
-## Skills
-
-| Skill | Associated Project |
-|---|---|
-| AI-Assisted Full-stack TypeScript application development | [CCNP ENCOR Tracker](https://github.com/dan-varughese/encortracker) |
-| Local desktop workflow automation | [portmappie](https://github.com/dan-varughese/portmappie) |
-| MCP server prototyping and API tooling | [Poke Credential Store MCP](https://github.com/dan-varughese/poke-credential-mcp) |
-| Network scanning and security automation | [Simple Network Scanner](https://github.com/dan-varughese/simpleNetworkScanner) |
-| SIEM configuration, detection, and alerting | [SIEM using Elastic Cloud](https://github.com/dan-varughese/elasticSIEM) |
-| Cybersecurity gap assessment and reporting | [Cyber Essentials Gap Analysis](https://github.com/dan-varughese/cyberessentials) |
-| Network design and implementation | [BSNES Capstone](https://github.com/dan-varughese/capstone) |
-| Browser extension prototyping | [noYoutubeDuringtheDay](https://github.com/dan-varughese/noYoutubeDuringtheDay) |
-
 
 ## Certifications
 <div>
